@@ -86,7 +86,7 @@ defined('EXIT__AUTO_MAX')      || define('EXIT__AUTO_MAX', 125); // highest auto
 define('_APP',              'Santri Developer');
 define('_CONTACT',          '+628133141339');
 define('_DOMAIN',           'http://localhost:8080');  # pada akhir domain jangan dikasih tanda (/)
-define('_TWITTER',          'https://auth.com');
-define('_FACEBOOK',         'https://auth.com');
-define('_EMAIL',            'itpohgero@gmail.com');
-define('_PASSWORD',         '#Pohgero01');
+define('_TWITTER',          'https://itpohgero.com');
+define('_FACEBOOK',         'https://itpohgero.com');
+define('_EMAIL',            'email@itpohgero.com');
+define('_PASSWORD',         'passwordemail');
